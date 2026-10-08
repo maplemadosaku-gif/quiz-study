@@ -15,6 +15,16 @@
   "china-history.json",
   "china-people.json",
   "ancient-people.json",
-  "ancient-world.json"
+  "ancient-world.json",
+  "award-akutagawa.json",
+  "award-honya.json",
+  "award-naoki.json",
+  "award-nobel-literature.json",
+  "award-cannes.json",
+  "award-japan-academy.json",
+  "award-oscar-picture.json",
+  "award-venice-berlin.json",
+  "award-grammy.json",
+  "award-record-taisho.json"
  ]
 }

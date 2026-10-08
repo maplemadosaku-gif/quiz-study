@@ -170,3 +170,5 @@ kbd { font-size: .75em; border: 1px solid var(--border); border-radius: 4px; pad
   .flag.big { height: 90px; }
 }
 .btn.primary kbd { color: rgba(255, 255, 255, .8); border-color: rgba(255, 255, 255, .5); }
+td { min-width: 5.5em; }
+td:first-child { white-space: nowrap; min-width: 0; }

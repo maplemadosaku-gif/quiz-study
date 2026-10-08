@@ -1,0 +1,468 @@
+{
+ "id": "award-record-taisho",
+ "title": "日本レコード大賞",
+ "category": "音楽賞",
+ "description": "日本レコード大賞 第1回（1959年）〜第67回（2025年）の大賞受賞曲。1990〜1992年は2部門制",
+ "columns": [
+  {
+   "key": "year",
+   "label": "年"
+  },
+  {
+   "key": "winner",
+   "label": "歌手・アーティスト"
+  },
+  {
+   "key": "work",
+   "label": "曲"
+  },
+  {
+   "key": "note",
+   "label": "補足"
+  }
+ ],
+ "quizzes": [
+  {
+   "q": "work",
+   "a": "winner",
+   "label": "曲 → 歌手・アーティスト"
+  },
+  {
+   "q": "winner",
+   "a": "work",
+   "label": "歌手・アーティスト → 曲"
+  },
+  {
+   "q": "year",
+   "a": "work",
+   "label": "年 → 曲"
+  },
+  {
+   "q": "work",
+   "a": "year",
+   "label": "曲 → 年"
+  }
+ ],
+ "rows": [
+  {
+   "year": "1959",
+   "winner": "水原弘",
+   "work": "黒い花びら",
+   "note": "第1回"
+  },
+  {
+   "year": "1960",
+   "winner": "松尾和子、和田弘とマヒナスターズ|松尾和子|和田弘とマヒナスターズ",
+   "work": "誰よりも君を愛す",
+   "note": "第2回"
+  },
+  {
+   "year": "1961",
+   "winner": "フランク永井",
+   "work": "君恋し",
+   "note": "第3回"
+  },
+  {
+   "year": "1962",
+   "winner": "橋幸夫、吉永小百合|橋幸夫|吉永小百合",
+   "work": "いつでも夢を",
+   "note": "第4回"
+  },
+  {
+   "year": "1963",
+   "winner": "梓みちよ",
+   "work": "こんにちは赤ちゃん",
+   "note": "第5回"
+  },
+  {
+   "year": "1964",
+   "winner": "青山和子",
+   "work": "愛と死をみつめて",
+   "note": "第6回"
+  },
+  {
+   "year": "1965",
+   "winner": "美空ひばり",
+   "work": "柔",
+   "note": "第7回"
+  },
+  {
+   "year": "1966",
+   "winner": "橋幸夫",
+   "work": "霧氷",
+   "note": "第8回"
+  },
+  {
+   "year": "1967",
+   "winner": "ジャッキー吉川とブルー・コメッツ|ジャッキー吉川とブルーコメッツ|ブルー・コメッツ|ブルーコメッツ",
+   "work": "ブルー・シャトウ",
+   "note": "第9回"
+  },
+  {
+   "year": "1968",
+   "winner": "黛ジュン",
+   "work": "天使の誘惑",
+   "note": "第10回"
+  },
+  {
+   "year": "1969",
+   "winner": "佐良直美",
+   "work": "いいじゃないの幸せならば",
+   "note": "第11回"
+  },
+  {
+   "year": "1970",
+   "winner": "菅原洋一",
+   "work": "今日でお別れ",
+   "note": "第12回"
+  },
+  {
+   "year": "1971",
+   "winner": "尾崎紀世彦",
+   "work": "また逢う日まで",
+   "note": "第13回"
+  },
+  {
+   "year": "1972",
+   "winner": "ちあきなおみ",
+   "work": "喝采",
+   "note": "第14回"
+  },
+  {
+   "year": "1973",
+   "winner": "五木ひろし",
+   "work": "夜空",
+   "note": "第15回"
+  },
+  {
+   "year": "1974",
+   "winner": "森進一",
+   "work": "襟裳岬",
+   "note": "第16回"
+  },
+  {
+   "year": "1975",
+   "winner": "布施明",
+   "work": "シクラメンのかほり",
+   "note": "第17回"
+  },
+  {
+   "year": "1976",
+   "winner": "都はるみ",
+   "work": "北の宿から",
+   "note": "第18回"
+  },
+  {
+   "year": "1977",
+   "winner": "沢田研二",
+   "work": "勝手にしやがれ",
+   "note": "第19回"
+  },
+  {
+   "year": "1978",
+   "winner": "ピンク・レディー",
+   "work": "UFO",
+   "note": "第20回"
+  },
+  {
+   "year": "1979",
+   "winner": "ジュディ・オング",
+   "work": "魅せられて",
+   "note": "第21回"
+  },
+  {
+   "year": "1980",
+   "winner": "八代亜紀",
+   "work": "雨の慕情",
+   "note": "第22回"
+  },
+  {
+   "year": "1981",
+   "winner": "寺尾聰",
+   "work": "ルビーの指環",
+   "note": "第23回"
+  },
+  {
+   "year": "1982",
+   "winner": "細川たかし",
+   "work": "北酒場",
+   "note": "第24回"
+  },
+  {
+   "year": "1983",
+   "winner": "細川たかし",
+   "work": "矢切の渡し",
+   "note": "第25回"
+  },
+  {
+   "year": "1984",
+   "winner": "五木ひろし",
+   "work": "長良川艶歌",
+   "note": "第26回"
+  },
+  {
+   "year": "1985",
+   "winner": "中森明菜",
+   "work": "ミ・アモーレ",
+   "note": "第27回"
+  },
+  {
+   "year": "1986",
+   "winner": "中森明菜",
+   "work": "DESIRE -情熱-|DESIRE",
+   "note": "第28回"
+  },
+  {
+   "year": "1987",
+   "winner": "近藤真彦",
+   "work": "愚か者",
+   "note": "第29回"
+  },
+  {
+   "year": "1988",
+   "winner": "光GENJI",
+   "work": "パラダイス銀河",
+   "note": "第30回"
+  },
+  {
+   "year": "1989",
+   "winner": "Wink",
+   "work": "淋しい熱帯魚",
+   "note": "第31回"
+  },
+  {
+   "year": "1990",
+   "winner": "堀内孝雄",
+   "work": "恋唄綴り",
+   "note": "第32回・歌謡曲・演歌部門"
+  },
+  {
+   "year": "1990",
+   "winner": "B.B.クィーンズ",
+   "work": "おどるポンポコリン",
+   "note": "第32回・ポップス・ロック部門"
+  },
+  {
+   "year": "1991",
+   "winner": "北島三郎",
+   "work": "北の大地",
+   "note": "第33回・歌謡曲・演歌部門"
+  },
+  {
+   "year": "1991",
+   "winner": "KAN",
+   "work": "愛は勝つ",
+   "note": "第33回・ポップス・ロック部門"
+  },
+  {
+   "year": "1992",
+   "winner": "大月みやこ",
+   "work": "白い海峡",
+   "note": "第34回・歌謡曲・演歌部門"
+  },
+  {
+   "year": "1992",
+   "winner": "米米CLUB",
+   "work": "君がいるだけで",
+   "note": "第34回・ポップス・ロック部門"
+  },
+  {
+   "year": "1993",
+   "winner": "香西かおり",
+   "work": "無言坂",
+   "note": "第35回"
+  },
+  {
+   "year": "1994",
+   "winner": "Mr.Children",
+   "work": "innocent world",
+   "note": "第36回"
+  },
+  {
+   "year": "1995",
+   "winner": "trf|TRF",
+   "work": "Overnight Sensation 〜時代はあなたに委ねてる〜|Overnight Sensation",
+   "note": "第37回"
+  },
+  {
+   "year": "1996",
+   "winner": "安室奈美恵",
+   "work": "Don't wanna cry",
+   "note": "第38回"
+  },
+  {
+   "year": "1997",
+   "winner": "安室奈美恵",
+   "work": "CAN YOU CELEBRATE?",
+   "note": "第39回"
+  },
+  {
+   "year": "1998",
+   "winner": "globe",
+   "work": "Wanna Be A Dreammaker",
+   "note": "第40回"
+  },
+  {
+   "year": "1999",
+   "winner": "GLAY",
+   "work": "Winter,again",
+   "note": "第41回"
+  },
+  {
+   "year": "2000",
+   "winner": "サザンオールスターズ",
+   "work": "TSUNAMI",
+   "note": "第42回"
+  },
+  {
+   "year": "2001",
+   "winner": "浜崎あゆみ",
+   "work": "Dearest",
+   "note": "第43回"
+  },
+  {
+   "year": "2002",
+   "winner": "浜崎あゆみ",
+   "work": "Voyage",
+   "note": "第44回"
+  },
+  {
+   "year": "2003",
+   "winner": "浜崎あゆみ",
+   "work": "No way to say",
+   "note": "第45回・浜崎あゆみ3連覇"
+  },
+  {
+   "year": "2004",
+   "winner": "Mr.Children",
+   "work": "Sign",
+   "note": "第46回"
+  },
+  {
+   "year": "2005",
+   "winner": "倖田來未",
+   "work": "Butterfly",
+   "note": "第47回"
+  },
+  {
+   "year": "2006",
+   "winner": "氷川きよし",
+   "work": "一剣",
+   "note": "第48回"
+  },
+  {
+   "year": "2007",
+   "winner": "コブクロ",
+   "work": "蕾",
+   "note": "第49回"
+  },
+  {
+   "year": "2008",
+   "winner": "EXILE",
+   "work": "Ti Amo",
+   "note": "第50回"
+  },
+  {
+   "year": "2009",
+   "winner": "EXILE",
+   "work": "Someday",
+   "note": "第51回"
+  },
+  {
+   "year": "2010",
+   "winner": "EXILE",
+   "work": "I Wish For You",
+   "note": "第52回・EXILE 3連覇"
+  },
+  {
+   "year": "2011",
+   "winner": "AKB48",
+   "work": "フライングゲット",
+   "note": "第53回"
+  },
+  {
+   "year": "2012",
+   "winner": "AKB48",
+   "work": "真夏のSounds good !|真夏のSounds good!",
+   "note": "第54回"
+  },
+  {
+   "year": "2013",
+   "winner": "EXILE",
+   "work": "EXILE PRIDE 〜こんな世界を愛するため〜|EXILE PRIDE",
+   "note": "第55回"
+  },
+  {
+   "year": "2014",
+   "winner": "三代目 J SOUL BROTHERS from EXILE TRIBE|三代目J SOUL BROTHERS",
+   "work": "R.Y.U.S.E.I.",
+   "note": "第56回"
+  },
+  {
+   "year": "2015",
+   "winner": "三代目 J SOUL BROTHERS from EXILE TRIBE|三代目J SOUL BROTHERS",
+   "work": "Unfair World",
+   "note": "第57回"
+  },
+  {
+   "year": "2016",
+   "winner": "西野カナ",
+   "work": "あなたの好きなところ",
+   "note": "第58回"
+  },
+  {
+   "year": "2017",
+   "winner": "乃木坂46",
+   "work": "インフルエンサー",
+   "note": "第59回"
+  },
+  {
+   "year": "2018",
+   "winner": "乃木坂46",
+   "work": "シンクロニシティ",
+   "note": "第60回"
+  },
+  {
+   "year": "2019",
+   "winner": "Foorin",
+   "work": "パプリカ",
+   "note": "第61回"
+  },
+  {
+   "year": "2020",
+   "winner": "LiSA",
+   "work": "炎",
+   "note": "第62回"
+  },
+  {
+   "year": "2021",
+   "winner": "Da-iCE",
+   "work": "CITRUS",
+   "note": "第63回"
+  },
+  {
+   "year": "2022",
+   "winner": "SEKAI NO OWARI",
+   "work": "Habit",
+   "note": "第64回"
+  },
+  {
+   "year": "2023",
+   "winner": "Mrs. GREEN APPLE",
+   "work": "ケセラセラ",
+   "note": "第65回"
+  },
+  {
+   "year": "2024",
+   "winner": "Mrs. GREEN APPLE",
+   "work": "ライラック",
+   "note": "第66回"
+  },
+  {
+   "year": "2025",
+   "winner": "Mrs. GREEN APPLE",
+   "work": "ダーリン",
+   "note": "第67回・Mrs. GREEN APPLE 3連覇"
+  }
+ ]
+}

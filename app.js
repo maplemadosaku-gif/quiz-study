@@ -30,6 +30,7 @@ const $ = (sel, root = document) => root.querySelector(sel);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const alts = v => String(v ?? '').split('|').map(s => s.trim()).filter(Boolean);
 const disp = v => alts(v)[0] || '';
+const usable = v => { const d = disp(v); return !!d && !/^該当(作)?なし$/.test(d); };
 const shuffle = a => { for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const uniq = a => [...new Set(a)];
 
@@ -205,7 +206,7 @@ async function syncProgress() {
 
 // ---------- questions & progress ----------
 function itemsFor(deck, quiz) {
-  const rows = deck.rows.filter(r => disp(r[quiz.q]) && disp(r[quiz.a]));
+  const rows = deck.rows.filter(r => usable(r[quiz.q]) && usable(r[quiz.a]));
   const byQ = {};
   for (const r of rows) (byQ[disp(r[quiz.q])] ||= []).push(r);
   return rows.map(r => ({
@@ -257,7 +258,7 @@ function choicesFor(it) {
   const { deck, quiz, row } = it;
   const correct = new Set(it.correctRows.map(r => disp(r[quiz.a])));
   const answer = disp(row[quiz.a]);
-  let cands = uniq(deck.rows.map(r => disp(r[quiz.a])).filter(v => v && !correct.has(v)));
+  let cands = uniq(deck.rows.filter(r => usable(r[quiz.a])).map(r => disp(r[quiz.a])).filter(v => !correct.has(v)));
   const y = yearNum(answer);
   if (y != null && cands.every(c => yearNum(c) != null)) {
     cands.sort((a, b) => Math.abs(yearNum(a) - y) - Math.abs(yearNum(b) - y));

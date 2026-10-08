@@ -1,0 +1,430 @@
+{
+ "id": "award-grammy",
+ "title": "グラミー賞 アルバム賞・レコード賞",
+ "category": "音楽賞",
+ "description": "グラミー賞 最優秀アルバム賞・最優秀レコード賞（2000年〜2026年授賞式）。年は授賞式の年",
+ "columns": [
+  {
+   "key": "year",
+   "label": "年"
+  },
+  {
+   "key": "category",
+   "label": "部門"
+  },
+  {
+   "key": "winner",
+   "label": "アーティスト"
+  },
+  {
+   "key": "work",
+   "label": "作品"
+  },
+  {
+   "key": "note",
+   "label": "補足"
+  }
+ ],
+ "quizzes": [
+  {
+   "q": "work",
+   "a": "winner",
+   "label": "作品 → アーティスト"
+  },
+  {
+   "q": "winner",
+   "a": "work",
+   "label": "アーティスト → 作品"
+  },
+  {
+   "q": "year",
+   "a": "work",
+   "label": "年 → 作品"
+  },
+  {
+   "q": "work",
+   "a": "year",
+   "label": "作品 → 年"
+  }
+ ],
+ "rows": [
+  {
+   "year": "2000",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "サンタナ",
+   "work": "スーパーナチュラル|Supernatural",
+   "note": "第42回"
+  },
+  {
+   "year": "2000",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "サンタナ feat. ロブ・トーマス|サンタナ",
+   "work": "スムーズ|Smooth",
+   "note": "第42回"
+  },
+  {
+   "year": "2001",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "スティーリー・ダン",
+   "work": "トゥー・アゲインスト・ネイチャー|Two Against Nature",
+   "note": "第43回"
+  },
+  {
+   "year": "2001",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "U2",
+   "work": "ビューティフル・デイ|Beautiful Day",
+   "note": "第43回"
+  },
+  {
+   "year": "2002",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ヴァリアス・アーティスト",
+   "work": "オー・ブラザー！ サウンドトラック|O Brother, Where Art Thou?",
+   "note": "第44回・映画『オー・ブラザー！』のサウンドトラック"
+  },
+  {
+   "year": "2002",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "U2",
+   "work": "ウォーク・オン|Walk On",
+   "note": "第44回"
+  },
+  {
+   "year": "2003",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ノラ・ジョーンズ",
+   "work": "ノラ・ジョーンズ|Come Away with Me",
+   "note": "第45回"
+  },
+  {
+   "year": "2003",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ノラ・ジョーンズ",
+   "work": "ドント・ノー・ホワイ|Don't Know Why",
+   "note": "第45回"
+  },
+  {
+   "year": "2004",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "アウトキャスト",
+   "work": "スピーカーボクシーズ／ザ・ラヴ・ビロウ|Speakerboxxx/The Love Below",
+   "note": "第46回"
+  },
+  {
+   "year": "2004",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "コールドプレイ",
+   "work": "クロックス|Clocks",
+   "note": "第46回"
+  },
+  {
+   "year": "2005",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "レイ・チャールズ",
+   "work": "ジーニアス・ラヴ〜永遠の愛|Genius Loves Company",
+   "note": "第47回"
+  },
+  {
+   "year": "2005",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "レイ・チャールズ＆ノラ・ジョーンズ|レイ・チャールズ",
+   "work": "ヒア・ウィー・ゴー・アゲイン|Here We Go Again",
+   "note": "第47回"
+  },
+  {
+   "year": "2006",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "U2",
+   "work": "原子爆弾解体新書〜ハウ・トゥ・ディスマントル・アン・アトミック・ボム|How to Dismantle an Atomic Bomb",
+   "note": "第48回"
+  },
+  {
+   "year": "2006",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "グリーン・デイ",
+   "work": "ブールバード・オブ・ブロークン・ドリームス|Boulevard of Broken Dreams",
+   "note": "第48回"
+  },
+  {
+   "year": "2007",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ディクシー・チックス",
+   "work": "テイキング・ザ・ロング・ウェイ|Taking the Long Way",
+   "note": "第49回"
+  },
+  {
+   "year": "2007",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ディクシー・チックス",
+   "work": "ノット・レディ・トゥ・メイク・ナイス|Not Ready to Make Nice",
+   "note": "第49回"
+  },
+  {
+   "year": "2008",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ハービー・ハンコック",
+   "work": "リヴァー〜ジョニ・ミッチェルへのオマージュ|River: The Joni Letters",
+   "note": "第50回"
+  },
+  {
+   "year": "2008",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "エイミー・ワインハウス",
+   "work": "リハブ|Rehab",
+   "note": "第50回"
+  },
+  {
+   "year": "2009",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ロバート・プラント＆アリソン・クラウス",
+   "work": "レイジング・サンド|Raising Sand",
+   "note": "第51回"
+  },
+  {
+   "year": "2009",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ロバート・プラント＆アリソン・クラウス",
+   "work": "プリーズ・リード・ザ・レター|Please Read the Letter",
+   "note": "第51回"
+  },
+  {
+   "year": "2010",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "テイラー・スウィフト",
+   "work": "フィアレス|Fearless",
+   "note": "第52回"
+  },
+  {
+   "year": "2010",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "キングス・オブ・レオン",
+   "work": "ユーズ・サムバディ|Use Somebody",
+   "note": "第52回"
+  },
+  {
+   "year": "2011",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "アーケイド・ファイア",
+   "work": "ザ・サバーブス|The Suburbs",
+   "note": "第53回"
+  },
+  {
+   "year": "2011",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "レディ・アンテベラム",
+   "work": "ニード・ユー・ナウ|Need You Now",
+   "note": "第53回"
+  },
+  {
+   "year": "2012",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "アデル",
+   "work": "21",
+   "note": "第54回"
+  },
+  {
+   "year": "2012",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "アデル",
+   "work": "ローリング・イン・ザ・ディープ|Rolling in the Deep",
+   "note": "第54回"
+  },
+  {
+   "year": "2013",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "マムフォード・アンド・サンズ",
+   "work": "バベル|Babel",
+   "note": "第55回"
+  },
+  {
+   "year": "2013",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ゴティエ feat. キンブラ|ゴティエ",
+   "work": "サムバディ・ザット・アイ・ユーズド・トゥ・ノウ|Somebody That I Used to Know",
+   "note": "第55回"
+  },
+  {
+   "year": "2014",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ダフト・パンク",
+   "work": "ランダム・アクセス・メモリーズ|Random Access Memories",
+   "note": "第56回"
+  },
+  {
+   "year": "2014",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ダフト・パンク feat. ファレル・ウィリアムス＆ナイル・ロジャース|ダフト・パンク",
+   "work": "ゲット・ラッキー|Get Lucky",
+   "note": "第56回"
+  },
+  {
+   "year": "2015",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ベック",
+   "work": "モーニング・フェイズ|Morning Phase",
+   "note": "第57回"
+  },
+  {
+   "year": "2015",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "サム・スミス",
+   "work": "ステイ・ウィズ・ミー|Stay with Me",
+   "note": "第57回"
+  },
+  {
+   "year": "2016",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "テイラー・スウィフト",
+   "work": "1989",
+   "note": "第58回・テイラー・スウィフト2度目"
+  },
+  {
+   "year": "2016",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "マーク・ロンソン feat. ブルーノ・マーズ|マーク・ロンソン",
+   "work": "アップタウン・ファンク|Uptown Funk",
+   "note": "第58回"
+  },
+  {
+   "year": "2017",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "アデル",
+   "work": "25",
+   "note": "第59回"
+  },
+  {
+   "year": "2017",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "アデル",
+   "work": "ハロー|Hello",
+   "note": "第59回"
+  },
+  {
+   "year": "2018",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ブルーノ・マーズ",
+   "work": "24K・マジック|24K Magic",
+   "note": "第60回"
+  },
+  {
+   "year": "2018",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ブルーノ・マーズ",
+   "work": "24K・マジック|24K Magic",
+   "note": "第60回・アルバム賞と同名タイトル"
+  },
+  {
+   "year": "2019",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ケイシー・マスグレイヴス",
+   "work": "ゴールデン・アワー|Golden Hour",
+   "note": "第61回"
+  },
+  {
+   "year": "2019",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "チャイルディッシュ・ガンビーノ",
+   "work": "ディス・イズ・アメリカ|This Is America",
+   "note": "第61回"
+  },
+  {
+   "year": "2020",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ビリー・アイリッシュ",
+   "work": "ホエン・ウィ・オール・フォール・アスリープ、ホエア・ドゥ・ウィ・ゴー？|When We All Fall Asleep, Where Do We Go?",
+   "note": "第62回"
+  },
+  {
+   "year": "2020",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ビリー・アイリッシュ",
+   "work": "バッド・ガイ|Bad Guy",
+   "note": "第62回"
+  },
+  {
+   "year": "2021",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "テイラー・スウィフト",
+   "work": "フォークロア|folklore",
+   "note": "第63回・テイラー・スウィフト3度目"
+  },
+  {
+   "year": "2021",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ビリー・アイリッシュ",
+   "work": "エヴリシング・アイ・ウォンテッド|Everything I Wanted",
+   "note": "第63回"
+  },
+  {
+   "year": "2022",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ジョン・バティステ",
+   "work": "ウィ・アー|We Are",
+   "note": "第64回"
+  },
+  {
+   "year": "2022",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "シルク・ソニック",
+   "work": "リーヴ・ザ・ドア・オープン|Leave the Door Open",
+   "note": "第64回"
+  },
+  {
+   "year": "2023",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ハリー・スタイルズ",
+   "work": "ハリーズ・ハウス|Harry's House",
+   "note": "第65回"
+  },
+  {
+   "year": "2023",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "リゾ",
+   "work": "アバウト・ダム・タイム|About Damn Time",
+   "note": "第65回"
+  },
+  {
+   "year": "2024",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "テイラー・スウィフト",
+   "work": "ミッドナイツ|Midnights",
+   "note": "第66回・テイラー・スウィフト4度目（史上最多）"
+  },
+  {
+   "year": "2024",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "マイリー・サイラス",
+   "work": "フラワーズ|Flowers",
+   "note": "第66回"
+  },
+  {
+   "year": "2025",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "ビヨンセ",
+   "work": "カウボーイ・カーター|Cowboy Carter",
+   "note": "第67回"
+  },
+  {
+   "year": "2025",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ケンドリック・ラマー",
+   "work": "ノット・ライク・アス|Not Like Us",
+   "note": "第67回"
+  },
+  {
+   "year": "2026",
+   "category": "最優秀アルバム賞|アルバム",
+   "winner": "バッド・バニー",
+   "work": "デビ・ティラール・マス・フォトス|DeBÍ TiRAR MáS FOToS",
+   "note": "第68回・スペイン語アルバム初の受賞"
+  },
+  {
+   "year": "2026",
+   "category": "最優秀レコード賞|レコード",
+   "winner": "ケンドリック・ラマー＆SZA|ケンドリック・ラマー",
+   "work": "ルーサー|luther",
+   "note": "第68回"
+  }
+ ]
+}
