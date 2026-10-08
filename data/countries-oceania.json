@@ -1,0 +1,24 @@
+{
+  "id": "countries-oceania",
+  "title": "オセアニアの国々",
+  "category": "地理",
+  "description": "オーストラリア・ニュージーランドと太平洋島嶼国",
+  "columns": [{"key": "flag", "label": "国旗", "type": "flag"}, {"key": "name", "label": "国名"}, {"key": "formal", "label": "正式名称"}, {"key": "capital", "label": "首都"}, {"key": "cities", "label": "主要都市"}, {"key": "subregion", "label": "地域"}, {"key": "note", "label": "補足"}],
+  "quizzes": [{"q": "flag", "a": "name", "label": "国旗 → 国名"}, {"q": "name", "a": "flag", "label": "国名 → 国旗"}, {"q": "name", "a": "capital", "label": "国名 → 首都"}, {"q": "capital", "a": "name", "label": "首都 → 国名"}, {"q": "cities", "a": "name", "label": "主要都市 → 国名"}, {"q": "formal", "a": "name", "label": "正式名称 → 国名"}],
+  "rows": [
+    {"flag": "au", "name": "オーストラリア", "formal": "オーストラリア連邦", "capital": "キャンベラ", "cities": "シドニー、メルボルン、ブリスベン、パース", "subregion": "オーストラリア・ニュージーランド", "note": "首都は最大都市シドニーではなくキャンベラ(計画都市)。国旗にユニオン・ジャックと南十字星"},
+    {"flag": "nz", "name": "ニュージーランド", "formal": "ニュージーランド", "capital": "ウェリントン", "cities": "オークランド、クライストチャーチ、ハミルトン", "subregion": "オーストラリア・ニュージーランド", "note": "最大都市オークランドは旧首都。1893年に世界で初めて女性参政権を認めた"},
+    {"flag": "pg", "name": "パプアニューギニア", "formal": "パプアニューギニア独立国", "capital": "ポートモレスビー", "cities": "ラエ、マウントハーゲン、マダン", "subregion": "メラネシア", "note": "ニューギニア島の東半分。800以上の言語が話される。国旗に極楽鳥"},
+    {"flag": "fj", "name": "フィジー", "formal": "フィジー共和国", "capital": "スバ", "cities": "ナンディ、ラウトカ", "subregion": "メラネシア", "note": "国旗にユニオン・ジャック。ラグビー(7人制)の強豪"},
+    {"flag": "sb", "name": "ソロモン諸島", "formal": "ソロモン諸島", "capital": "ホニアラ", "cities": "ギゾ、アウキ", "subregion": "メラネシア", "note": "首都ホニアラはガダルカナル島にある"},
+    {"flag": "vu", "name": "バヌアツ", "formal": "バヌアツ共和国", "capital": "ポートビラ", "cities": "ルーガンビル", "subregion": "メラネシア", "note": "旧英仏共同統治領ニューヘブリディーズ。バンジージャンプの起源とされる儀式ナゴール"},
+    {"flag": "ws", "name": "サモア|西サモア", "formal": "サモア独立国", "capital": "アピア", "cities": "", "subregion": "ポリネシア", "note": "旧国名西サモア。2011年末に日付変更線の東側から西側へ移った"},
+    {"flag": "to", "name": "トンガ", "formal": "トンガ王国", "capital": "ヌクアロファ", "cities": "ネイアフ", "subregion": "ポリネシア", "note": "太平洋の王国。2022年にフンガ・トンガ火山が大噴火"},
+    {"flag": "tv", "name": "ツバル", "formal": "ツバル", "capital": "フナフティ", "cities": "", "subregion": "ポリネシア", "note": "海面上昇による水没が懸念される。国別ドメイン「.tv」で外貨収入"},
+    {"flag": "ki", "name": "キリバス", "formal": "キリバス共和国", "capital": "タラワ|南タラワ", "cities": "", "subregion": "ミクロネシア", "note": "東端のライン諸島は世界で最も早く日付が変わる地域。赤道と日付変更線をまたぐ"},
+    {"flag": "nr", "name": "ナウル", "formal": "ナウル共和国", "capital": "ヤレン", "cities": "", "subregion": "ミクロネシア", "note": "憲法上の首都はなく政府機関はヤレン地区にある。世界で3番目に小さい国。リン鉱石で栄えた。2024年に台湾と断交"},
+    {"flag": "mh", "name": "マーシャル諸島", "formal": "マーシャル諸島共和国", "capital": "マジュロ", "cities": "エバイ", "subregion": "ミクロネシア", "note": "ビキニ環礁での米国の核実験(第五福竜丸事件)"},
+    {"flag": "fm", "name": "ミクロネシア連邦|ミクロネシア", "formal": "ミクロネシア連邦", "capital": "パリキール", "cities": "コロニア、ウェノ", "subregion": "ミクロネシア", "note": "首都パリキールはポンペイ島にある。旧首都コロニア"},
+    {"flag": "pw", "name": "パラオ", "formal": "パラオ共和国", "capital": "マルキョク|ンゲルルムド", "cities": "コロール", "subregion": "ミクロネシア", "note": "2006年に旧首都コロールから遷都。国旗は青地に黄色の円で日の丸に似る"}
+  ]
+}

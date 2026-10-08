@@ -1,0 +1,467 @@
+{
+  "id": "ancient-people",
+  "title": "古代世界の人物",
+  "category": "世界史",
+  "description": "オリエント・ギリシア・ローマ・インド・ペルシアの王・哲学者・歴史家・科学者など",
+  "columns": [
+    {
+      "key": "name",
+      "label": "人物"
+    },
+    {
+      "key": "civilization",
+      "label": "地域・文明"
+    },
+    {
+      "key": "role",
+      "label": "分類"
+    },
+    {
+      "key": "achievement",
+      "label": "主な業績・著作・名言"
+    },
+    {
+      "key": "note",
+      "label": "補足"
+    }
+  ],
+  "quizzes": [
+    {
+      "q": "achievement",
+      "a": "name",
+      "label": "業績 → 人物"
+    },
+    {
+      "q": "name",
+      "a": "achievement",
+      "label": "人物 → 業績"
+    },
+    {
+      "q": "name",
+      "a": "civilization",
+      "label": "人物 → 地域・文明"
+    }
+  ],
+  "rows": [
+    {
+      "name": "クフ王",
+      "civilization": "エジプト",
+      "role": "王",
+      "achievement": "ギザに最大のピラミッドを建造",
+      "note": "古王国時代"
+    },
+    {
+      "name": "ハンムラビ王|ハンムラビ",
+      "civilization": "メソポタミア",
+      "role": "王",
+      "achievement": "メソポタミアを統一し、ハンムラビ法典を制定（「目には目を、歯には歯を」）",
+      "note": "バビロン第1王朝"
+    },
+    {
+      "name": "アメンホテプ4世|イクナートン|アクエンアテン",
+      "civilization": "エジプト",
+      "role": "王",
+      "achievement": "アトン神の一神教を強制、テル＝エル＝アマルナに遷都",
+      "note": "アマルナ美術"
+    },
+    {
+      "name": "ツタンカーメン",
+      "civilization": "エジプト",
+      "role": "王",
+      "achievement": "1922年にカーターが王墓を発見、黄金のマスク",
+      "note": "新王国時代"
+    },
+    {
+      "name": "ラメセス2世|ラムセス2世",
+      "civilization": "エジプト",
+      "role": "王",
+      "achievement": "アブ＝シンベル神殿を建造、ヒッタイトとカデシュの戦い",
+      "note": "新王国時代"
+    },
+    {
+      "name": "ソロモン王|ソロモン",
+      "civilization": "ヘブライ",
+      "role": "王",
+      "achievement": "ヘブライ王国の最盛期、イェルサレムに神殿を建設",
+      "note": "ダヴィデの子"
+    },
+    {
+      "name": "ネブカドネザル2世",
+      "civilization": "メソポタミア",
+      "role": "王",
+      "achievement": "ユダ王国を滅ぼしバビロン捕囚を行う",
+      "note": "新バビロニア"
+    },
+    {
+      "name": "ゾロアスター|ザラスシュトラ",
+      "civilization": "ペルシア",
+      "role": "宗教家",
+      "achievement": "善悪二元論のゾロアスター教を創始",
+      "note": "拝火教"
+    },
+    {
+      "name": "キュロス2世",
+      "civilization": "ペルシア",
+      "role": "王",
+      "achievement": "アケメネス朝を建国、ユダヤ人をバビロン捕囚から解放",
+      "note": ""
+    },
+    {
+      "name": "ダレイオス1世",
+      "civilization": "ペルシア",
+      "role": "王",
+      "achievement": "サトラップ（知事）制、「王の目」「王の耳」、「王の道」の整備",
+      "note": "ペルセポリスの造営"
+    },
+    {
+      "name": "ホメロス",
+      "civilization": "ギリシア",
+      "role": "詩人",
+      "achievement": "叙事詩『イリアス』『オデュッセイア』",
+      "note": ""
+    },
+    {
+      "name": "タレス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "万物の根源を水とした",
+      "note": "イオニア自然哲学の祖"
+    },
+    {
+      "name": "ソロン",
+      "civilization": "ギリシア",
+      "role": "政治家",
+      "achievement": "財産政治、債務奴隷の禁止",
+      "note": "アテネの改革者"
+    },
+    {
+      "name": "ピタゴラス|ピュタゴラス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "万物の根源を数とした、ピタゴラスの定理（三平方の定理）",
+      "note": ""
+    },
+    {
+      "name": "ヘラクレイトス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "「万物は流転する」、根源は火",
+      "note": ""
+    },
+    {
+      "name": "ガウタマ・シッダールタ|ブッダ|釈迦",
+      "civilization": "インド",
+      "role": "宗教家",
+      "achievement": "仏教を開く。八正道による解脱",
+      "note": ""
+    },
+    {
+      "name": "ヴァルダマーナ|マハーヴィーラ",
+      "civilization": "インド",
+      "role": "宗教家",
+      "achievement": "ジャイナ教を開く、不殺生と苦行",
+      "note": ""
+    },
+    {
+      "name": "ペリクレス",
+      "civilization": "ギリシア",
+      "role": "政治家",
+      "achievement": "アテネ民主政の全盛期を指導、パルテノン神殿の再建",
+      "note": ""
+    },
+    {
+      "name": "アイスキュロス",
+      "civilization": "ギリシア",
+      "role": "悲劇作家",
+      "achievement": "三大悲劇詩人の一人。『アガメムノン』",
+      "note": ""
+    },
+    {
+      "name": "ソフォクレス",
+      "civilization": "ギリシア",
+      "role": "悲劇作家",
+      "achievement": "『オイディプス王』",
+      "note": "三大悲劇詩人の一人"
+    },
+    {
+      "name": "エウリピデス",
+      "civilization": "ギリシア",
+      "role": "悲劇作家",
+      "achievement": "『メデイア』",
+      "note": "三大悲劇詩人の一人"
+    },
+    {
+      "name": "フェイディアス",
+      "civilization": "ギリシア",
+      "role": "彫刻家",
+      "achievement": "パルテノン神殿のアテナ女神像",
+      "note": ""
+    },
+    {
+      "name": "ヘロドトス",
+      "civilization": "ギリシア",
+      "role": "歴史家",
+      "achievement": "ペルシア戦争を描いた『歴史』。「歴史の父」",
+      "note": ""
+    },
+    {
+      "name": "ソクラテス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "「無知の知」、問答法",
+      "note": "前399年に刑死"
+    },
+    {
+      "name": "ヒッポクラテス",
+      "civilization": "ギリシア",
+      "role": "医学者",
+      "achievement": "「医学の父」",
+      "note": ""
+    },
+    {
+      "name": "トゥキディデス",
+      "civilization": "ギリシア",
+      "role": "歴史家",
+      "achievement": "ペロポネソス戦争を描いた『歴史』（『戦史』）",
+      "note": ""
+    },
+    {
+      "name": "アリストファネス",
+      "civilization": "ギリシア",
+      "role": "喜劇作家",
+      "achievement": "『女の平和』『雲』『女の議会』",
+      "note": ""
+    },
+    {
+      "name": "デモクリトス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "原子論",
+      "note": ""
+    },
+    {
+      "name": "プラトン",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "イデア論、アカデメイアを開く、『国家』",
+      "note": "ソクラテスの弟子"
+    },
+    {
+      "name": "アリストテレス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "「万学の祖」、リュケイオンを開く",
+      "note": "アレクサンドロス大王の家庭教師"
+    },
+    {
+      "name": "アレクサンドロス大王|アレクサンダー大王|アレクサンドロス3世",
+      "civilization": "マケドニア",
+      "role": "王",
+      "achievement": "東方遠征でアケメネス朝を滅ぼし大帝国を築く",
+      "note": "ヘレニズム時代の幕開け"
+    },
+    {
+      "name": "エピクロス",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "精神的快楽を求める（エピクロス派）",
+      "note": ""
+    },
+    {
+      "name": "ゼノン",
+      "civilization": "ギリシア",
+      "role": "哲学者",
+      "achievement": "ストア派を創始、禁欲主義",
+      "note": "キプロス島出身"
+    },
+    {
+      "name": "エウクレイデス|ユークリッド",
+      "civilization": "ギリシア",
+      "role": "数学者",
+      "achievement": "『幾何学原本』で平面幾何学を大成",
+      "note": "アレクサンドリアで活躍"
+    },
+    {
+      "name": "アルキメデス",
+      "civilization": "ギリシア",
+      "role": "科学者",
+      "achievement": "浮力の原理、てこの原理。「エウレカ」",
+      "note": "シチリアのシラクサ出身"
+    },
+    {
+      "name": "エラトステネス",
+      "civilization": "ギリシア",
+      "role": "科学者",
+      "achievement": "地球の周囲の長さを測定",
+      "note": "ムセイオンの館長"
+    },
+    {
+      "name": "アショーカ王|アショーカ",
+      "civilization": "インド",
+      "role": "王",
+      "achievement": "マウリヤ朝最盛期。ダルマによる統治、仏典結集、石柱碑",
+      "note": ""
+    },
+    {
+      "name": "ハンニバル",
+      "civilization": "カルタゴ",
+      "role": "武将",
+      "achievement": "第2次ポエニ戦争でアルプスを越えローマに侵攻、カンネーの戦い",
+      "note": "ザマの戦いで敗北"
+    },
+    {
+      "name": "カエサル|ジュリアス・シーザー|ユリウス・カエサル",
+      "civilization": "ローマ",
+      "role": "政治家",
+      "achievement": "『ガリア戦記』、「賽は投げられた」「来た、見た、勝った」",
+      "note": "ユリウス暦を採用"
+    },
+    {
+      "name": "キケロ",
+      "civilization": "ローマ",
+      "role": "政治家",
+      "achievement": "ラテン散文の名文家、『国家論』",
+      "note": ""
+    },
+    {
+      "name": "クレオパトラ|クレオパトラ7世",
+      "civilization": "エジプト",
+      "role": "女王",
+      "achievement": "プトレマイオス朝最後の女王",
+      "note": "アクティウムの海戦で敗れ自殺"
+    },
+    {
+      "name": "アウグストゥス|オクタウィアヌス",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "元首政（プリンキパトゥス）を開始した初代ローマ皇帝",
+      "note": "「尊厳者」の意"
+    },
+    {
+      "name": "ウェルギリウス",
+      "civilization": "ローマ",
+      "role": "詩人",
+      "achievement": "叙事詩『アエネイス』",
+      "note": ""
+    },
+    {
+      "name": "リウィウス",
+      "civilization": "ローマ",
+      "role": "歴史家",
+      "achievement": "『ローマ建国史』（『ローマ建国以来の歴史』）",
+      "note": ""
+    },
+    {
+      "name": "イエス",
+      "civilization": "パレスチナ",
+      "role": "宗教家",
+      "achievement": "神の愛と隣人愛を説く、キリスト教の祖",
+      "note": "ゴルゴタの丘で処刑"
+    },
+    {
+      "name": "パウロ",
+      "civilization": "ローマ",
+      "role": "伝道者",
+      "achievement": "異邦人への伝道でキリスト教を広める",
+      "note": ""
+    },
+    {
+      "name": "セネカ",
+      "civilization": "ローマ",
+      "role": "哲学者",
+      "achievement": "ストア派哲学者、ネロの師",
+      "note": ""
+    },
+    {
+      "name": "ネロ",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "ローマ大火後にキリスト教徒を迫害",
+      "note": "暴君として知られる"
+    },
+    {
+      "name": "プリニウス|大プリニウス",
+      "civilization": "ローマ",
+      "role": "博物学者",
+      "achievement": "百科全書的な『博物誌』",
+      "note": "ヴェスヴィオ火山噴火で死去"
+    },
+    {
+      "name": "タキトゥス",
+      "civilization": "ローマ",
+      "role": "歴史家",
+      "achievement": "『ゲルマニア』、『年代記』",
+      "note": ""
+    },
+    {
+      "name": "プルタルコス",
+      "civilization": "ローマ",
+      "role": "著述家",
+      "achievement": "『対比列伝』（『英雄伝』）",
+      "note": "ギリシア人"
+    },
+    {
+      "name": "カニシカ王|カニシカ",
+      "civilization": "インド",
+      "role": "王",
+      "achievement": "クシャーナ朝最盛期、仏教を保護",
+      "note": "ガンダーラ美術"
+    },
+    {
+      "name": "マルクス・アウレリウス・アントニヌス",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "五賢帝最後の皇帝、ストア派の『自省録』",
+      "note": "大秦王安敦とされる"
+    },
+    {
+      "name": "プトレマイオス",
+      "civilization": "ローマ",
+      "role": "天文学者",
+      "achievement": "天動説を体系化、『天文学大全』（『アルマゲスト』）",
+      "note": "アレクサンドリアで活躍"
+    },
+    {
+      "name": "シャープール1世",
+      "civilization": "ペルシア",
+      "role": "王",
+      "achievement": "ササン朝の王。ローマ皇帝ウァレリアヌスを捕虜にする",
+      "note": ""
+    },
+    {
+      "name": "ディオクレティアヌス",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "専制君主政（ドミナトゥス）、四帝分治制",
+      "note": "キリスト教の大迫害"
+    },
+    {
+      "name": "コンスタンティヌス|コンスタンティヌス帝",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "ミラノ勅令でキリスト教を公認、コンスタンティノープルへ遷都",
+      "note": "ソリドゥス金貨"
+    },
+    {
+      "name": "テオドシウス|テオドシウス帝",
+      "civilization": "ローマ",
+      "role": "皇帝",
+      "achievement": "キリスト教を国教化、死後帝国が東西に分裂",
+      "note": ""
+    },
+    {
+      "name": "カーリダーサ",
+      "civilization": "インド",
+      "role": "詩人",
+      "achievement": "サンスクリット戯曲『シャクンタラー』",
+      "note": "グプタ朝の宮廷詩人"
+    },
+    {
+      "name": "アウグスティヌス",
+      "civilization": "ローマ",
+      "role": "神学者",
+      "achievement": "『神の国』『告白録』",
+      "note": "教父"
+    }
+  ]
+}

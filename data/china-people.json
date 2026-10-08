@@ -1,0 +1,537 @@
+{
+  "id": "china-people",
+  "title": "中国史 人物・思想家・文人",
+  "category": "中国史",
+  "description": "諸子百家・詩人・皇帝・武将から近現代まで、中国史の重要人物と業績",
+  "columns": [
+    {
+      "key": "name",
+      "label": "人物"
+    },
+    {
+      "key": "dynasty",
+      "label": "時代"
+    },
+    {
+      "key": "role",
+      "label": "分類"
+    },
+    {
+      "key": "achievement",
+      "label": "主な業績・著作・名言"
+    },
+    {
+      "key": "note",
+      "label": "補足"
+    }
+  ],
+  "quizzes": [
+    {
+      "q": "achievement",
+      "a": "name",
+      "label": "業績 → 人物"
+    },
+    {
+      "q": "name",
+      "a": "achievement",
+      "label": "人物 → 業績"
+    },
+    {
+      "q": "name",
+      "a": "dynasty",
+      "label": "人物 → 時代"
+    }
+  ],
+  "rows": [
+    {
+      "name": "老子",
+      "dynasty": "春秋",
+      "role": "道家",
+      "achievement": "無為自然を説く。『老子』（『道徳経』）",
+      "note": "実在には諸説あり"
+    },
+    {
+      "name": "孔子",
+      "dynasty": "春秋",
+      "role": "儒家",
+      "achievement": "仁と礼による徳治を説く。言行録『論語』",
+      "note": "魯の人。名は丘"
+    },
+    {
+      "name": "孫子|孫武",
+      "dynasty": "春秋",
+      "role": "兵家",
+      "achievement": "兵法書『孫子』。「彼を知り己を知れば百戦殆うからず」",
+      "note": "呉に仕えた"
+    },
+    {
+      "name": "墨子|墨翟",
+      "dynasty": "戦国",
+      "role": "墨家",
+      "achievement": "兼愛（無差別の愛）と非攻（侵略戦争の否定）",
+      "note": ""
+    },
+    {
+      "name": "孟子",
+      "dynasty": "戦国",
+      "role": "儒家",
+      "achievement": "性善説、王道政治、易姓革命",
+      "note": "「孟母三遷」の故事"
+    },
+    {
+      "name": "荘子",
+      "dynasty": "戦国",
+      "role": "道家",
+      "achievement": "万物斉同、「胡蝶の夢」",
+      "note": "老子とあわせて老荘思想"
+    },
+    {
+      "name": "商鞅",
+      "dynasty": "戦国",
+      "role": "法家",
+      "achievement": "秦の孝公に仕え変法（什伍の制など）を実施",
+      "note": "のち車裂きの刑に"
+    },
+    {
+      "name": "屈原",
+      "dynasty": "戦国",
+      "role": "詩人",
+      "achievement": "『楚辞』の代表作「離騒」",
+      "note": "楚の政治家。汨羅に身を投げる"
+    },
+    {
+      "name": "荀子",
+      "dynasty": "戦国",
+      "role": "儒家",
+      "achievement": "性悪説、礼による統治（礼治主義）",
+      "note": "門下に韓非・李斯"
+    },
+    {
+      "name": "韓非|韓非子",
+      "dynasty": "戦国",
+      "role": "法家",
+      "achievement": "法家思想を大成。『韓非子』。「矛盾」「守株」の故事",
+      "note": ""
+    },
+    {
+      "name": "始皇帝|秦の始皇帝|嬴政",
+      "dynasty": "秦",
+      "role": "皇帝",
+      "achievement": "中国を初めて統一し「皇帝」の称号を創始",
+      "note": "郡県制、焚書・坑儒"
+    },
+    {
+      "name": "李斯",
+      "dynasty": "秦",
+      "role": "政治家",
+      "achievement": "始皇帝の丞相。焚書を進言、文字（小篆）の統一",
+      "note": ""
+    },
+    {
+      "name": "項羽",
+      "dynasty": "秦末",
+      "role": "武将",
+      "achievement": "「四面楚歌」。垓下の戦いで劉邦に敗れる",
+      "note": "楚の名門出身"
+    },
+    {
+      "name": "劉邦|高祖",
+      "dynasty": "前漢",
+      "role": "皇帝",
+      "achievement": "前漢を建国、郡国制を実施",
+      "note": "農民出身"
+    },
+    {
+      "name": "韓信",
+      "dynasty": "前漢",
+      "role": "武将",
+      "achievement": "「背水の陣」「股くぐり」「国士無双」",
+      "note": "劉邦の天下統一に貢献"
+    },
+    {
+      "name": "武帝",
+      "dynasty": "前漢",
+      "role": "皇帝",
+      "achievement": "前漢の最盛期。塩・鉄の専売、張騫の派遣、儒学の官学化",
+      "note": "元号（建元）を初めて制定"
+    },
+    {
+      "name": "張騫",
+      "dynasty": "前漢",
+      "role": "外交官",
+      "achievement": "大月氏へ派遣され、西域の事情を伝える",
+      "note": ""
+    },
+    {
+      "name": "董仲舒",
+      "dynasty": "前漢",
+      "role": "儒学者",
+      "achievement": "武帝に儒学の官学化を献策",
+      "note": "五経博士の設置"
+    },
+    {
+      "name": "司馬遷",
+      "dynasty": "前漢",
+      "role": "歴史家",
+      "achievement": "紀伝体の歴史書『史記』",
+      "note": "宮刑を受けた"
+    },
+    {
+      "name": "班固",
+      "dynasty": "後漢",
+      "role": "歴史家",
+      "achievement": "紀伝体の歴史書『漢書』",
+      "note": "班超の兄"
+    },
+    {
+      "name": "蔡倫",
+      "dynasty": "後漢",
+      "role": "宦官",
+      "achievement": "製紙法を改良",
+      "note": ""
+    },
+    {
+      "name": "曹操",
+      "dynasty": "後漢末",
+      "role": "武将",
+      "achievement": "魏の基礎を築く。屯田制、赤壁の戦いで敗北",
+      "note": "死後に武帝と追尊"
+    },
+    {
+      "name": "劉備",
+      "dynasty": "蜀",
+      "role": "皇帝",
+      "achievement": "蜀（蜀漢）を建国。「三顧の礼」",
+      "note": ""
+    },
+    {
+      "name": "諸葛亮|諸葛孔明|孔明",
+      "dynasty": "蜀",
+      "role": "政治家",
+      "achievement": "「天下三分の計」「出師表」「泣いて馬謖を斬る」",
+      "note": "劉備に仕えた丞相"
+    },
+    {
+      "name": "関羽",
+      "dynasty": "蜀",
+      "role": "武将",
+      "achievement": "劉備の義兄弟。のち関帝として神格化",
+      "note": ""
+    },
+    {
+      "name": "孫権",
+      "dynasty": "呉",
+      "role": "皇帝",
+      "achievement": "呉を建国し江南を支配",
+      "note": ""
+    },
+    {
+      "name": "王羲之",
+      "dynasty": "東晋",
+      "role": "書家",
+      "achievement": "「書聖」。「蘭亭序」",
+      "note": ""
+    },
+    {
+      "name": "陶淵明|陶潜",
+      "dynasty": "東晋",
+      "role": "詩人",
+      "achievement": "「帰去来辞」「桃花源記」",
+      "note": "田園詩人"
+    },
+    {
+      "name": "孝文帝",
+      "dynasty": "北魏",
+      "role": "皇帝",
+      "achievement": "均田制の施行、洛陽遷都、漢化政策",
+      "note": ""
+    },
+    {
+      "name": "昭明太子",
+      "dynasty": "梁",
+      "role": "文人",
+      "achievement": "詩文集『文選』を編纂",
+      "note": "梁の武帝の長子"
+    },
+    {
+      "name": "煬帝",
+      "dynasty": "隋",
+      "role": "皇帝",
+      "achievement": "大運河を完成、高句麗遠征に失敗",
+      "note": "小野妹子の国書を受けた"
+    },
+    {
+      "name": "太宗|李世民",
+      "dynasty": "唐",
+      "role": "皇帝",
+      "achievement": "「貞観の治」",
+      "note": "玄武門の変で即位"
+    },
+    {
+      "name": "玄奘|三蔵法師",
+      "dynasty": "唐",
+      "role": "僧",
+      "achievement": "インドから経典を持ち帰る。旅行記『大唐西域記』",
+      "note": "『西遊記』のモデル"
+    },
+    {
+      "name": "武則天|則天武后",
+      "dynasty": "唐",
+      "role": "皇帝",
+      "achievement": "中国史上唯一の女帝。国号を周と改める",
+      "note": ""
+    },
+    {
+      "name": "玄宗",
+      "dynasty": "唐",
+      "role": "皇帝",
+      "achievement": "「開元の治」。晩年楊貴妃を寵愛し安史の乱を招く",
+      "note": ""
+    },
+    {
+      "name": "李白",
+      "dynasty": "唐",
+      "role": "詩人",
+      "achievement": "「詩仙」。「静夜思」「早発白帝城」",
+      "note": ""
+    },
+    {
+      "name": "杜甫",
+      "dynasty": "唐",
+      "role": "詩人",
+      "achievement": "「詩聖」。「春望」（国破れて山河在り）",
+      "note": ""
+    },
+    {
+      "name": "王維",
+      "dynasty": "唐",
+      "role": "詩人",
+      "achievement": "「詩仏」。南画（文人画）の祖とされる",
+      "note": ""
+    },
+    {
+      "name": "白居易|白楽天",
+      "dynasty": "唐",
+      "role": "詩人",
+      "achievement": "「長恨歌」。詩文集『白氏文集』",
+      "note": "平安文学に大きな影響"
+    },
+    {
+      "name": "韓愈",
+      "dynasty": "唐",
+      "role": "文人",
+      "achievement": "古文復興運動を提唱",
+      "note": "唐宋八大家の一人"
+    },
+    {
+      "name": "顔真卿",
+      "dynasty": "唐",
+      "role": "書家",
+      "achievement": "力強い楷書で知られる",
+      "note": "安史の乱で義兵を挙げる"
+    },
+    {
+      "name": "鑑真",
+      "dynasty": "唐",
+      "role": "僧",
+      "achievement": "日本に渡り戒律を伝え、唐招提寺を建立",
+      "note": ""
+    },
+    {
+      "name": "趙匡胤|太祖",
+      "dynasty": "北宋",
+      "role": "皇帝",
+      "achievement": "宋（北宋）を建国、文治主義、殿試を創設",
+      "note": ""
+    },
+    {
+      "name": "王安石",
+      "dynasty": "北宋",
+      "role": "政治家",
+      "achievement": "神宗のもとで新法（青苗法・募役法など）を実施",
+      "note": "唐宋八大家の一人"
+    },
+    {
+      "name": "司馬光",
+      "dynasty": "北宋",
+      "role": "歴史家",
+      "achievement": "編年体の通史『資治通鑑』",
+      "note": "旧法党の中心"
+    },
+    {
+      "name": "蘇軾|蘇東坡",
+      "dynasty": "北宋",
+      "role": "詩人",
+      "achievement": "「赤壁賦」",
+      "note": "唐宋八大家の一人"
+    },
+    {
+      "name": "岳飛",
+      "dynasty": "南宋",
+      "role": "武将",
+      "achievement": "金に対する主戦派の英雄",
+      "note": "秦檜により処刑"
+    },
+    {
+      "name": "朱熹|朱子",
+      "dynasty": "南宋",
+      "role": "儒学者",
+      "achievement": "朱子学を大成、『四書集注』",
+      "note": "性即理"
+    },
+    {
+      "name": "チンギス・ハン|チンギス・カン|テムジン",
+      "dynasty": "元",
+      "role": "皇帝",
+      "achievement": "モンゴル帝国を建国",
+      "note": "1206年にクリルタイで即位"
+    },
+    {
+      "name": "フビライ|クビライ",
+      "dynasty": "元",
+      "role": "皇帝",
+      "achievement": "国号を元とし大都に遷都、日本遠征（元寇）",
+      "note": "チンギス・ハンの孫"
+    },
+    {
+      "name": "マルコ・ポーロ",
+      "dynasty": "元",
+      "role": "旅行家",
+      "achievement": "フビライに仕え『世界の記述』（『東方見聞録』）を口述",
+      "note": "ヴェネツィア出身"
+    },
+    {
+      "name": "朱元璋|洪武帝",
+      "dynasty": "明",
+      "role": "皇帝",
+      "achievement": "明を建国。一世一元の制、里甲制、六諭",
+      "note": "紅巾の乱から台頭"
+    },
+    {
+      "name": "永楽帝",
+      "dynasty": "明",
+      "role": "皇帝",
+      "achievement": "靖難の役で即位、北京遷都、鄭和の南海遠征",
+      "note": ""
+    },
+    {
+      "name": "鄭和",
+      "dynasty": "明",
+      "role": "武将",
+      "achievement": "南海遠征を7回指揮",
+      "note": "イスラーム教徒の宦官"
+    },
+    {
+      "name": "王守仁|王陽明",
+      "dynasty": "明",
+      "role": "儒学者",
+      "achievement": "陽明学。「知行合一」「致良知」",
+      "note": ""
+    },
+    {
+      "name": "李時珍",
+      "dynasty": "明",
+      "role": "学者",
+      "achievement": "薬物学書『本草綱目』",
+      "note": ""
+    },
+    {
+      "name": "羅貫中",
+      "dynasty": "明",
+      "role": "文人",
+      "achievement": "『三国志演義』の作者とされる",
+      "note": "元末明初"
+    },
+    {
+      "name": "康熙帝",
+      "dynasty": "清",
+      "role": "皇帝",
+      "achievement": "三藩の乱を鎮圧、ネルチンスク条約",
+      "note": "在位61年"
+    },
+    {
+      "name": "乾隆帝",
+      "dynasty": "清",
+      "role": "皇帝",
+      "achievement": "清の最大版図を実現、ヨーロッパ船の来航を広州に限定",
+      "note": "康熙帝の孫"
+    },
+    {
+      "name": "曹雪芹",
+      "dynasty": "清",
+      "role": "文人",
+      "achievement": "長編小説『紅楼夢』",
+      "note": ""
+    },
+    {
+      "name": "林則徐",
+      "dynasty": "清",
+      "role": "政治家",
+      "achievement": "欽差大臣として広州でアヘンを没収・廃棄",
+      "note": "アヘン戦争の契機"
+    },
+    {
+      "name": "洪秀全",
+      "dynasty": "清",
+      "role": "宗教家",
+      "achievement": "上帝会を組織し太平天国を建国",
+      "note": ""
+    },
+    {
+      "name": "李鴻章",
+      "dynasty": "清",
+      "role": "政治家",
+      "achievement": "淮軍を率い洋務運動を推進、下関条約に調印",
+      "note": ""
+    },
+    {
+      "name": "西太后|慈禧太后",
+      "dynasty": "清",
+      "role": "皇太后",
+      "achievement": "戊戌の政変で変法派を弾圧、長く実権を握る",
+      "note": ""
+    },
+    {
+      "name": "孫文|孫中山",
+      "dynasty": "中華民国",
+      "role": "革命家",
+      "achievement": "三民主義（民族・民権・民生）、中国同盟会を結成",
+      "note": "「国父」"
+    },
+    {
+      "name": "袁世凱",
+      "dynasty": "中華民国",
+      "role": "政治家",
+      "achievement": "中華民国大総統。帝政を企てるも失敗",
+      "note": "北洋軍閥の祖"
+    },
+    {
+      "name": "魯迅",
+      "dynasty": "中華民国",
+      "role": "作家",
+      "achievement": "『狂人日記』『阿Q正伝』",
+      "note": "仙台で医学を学ぶ"
+    },
+    {
+      "name": "毛沢東",
+      "dynasty": "中華人民共和国",
+      "role": "政治家",
+      "achievement": "中華人民共和国を建国、大躍進・文化大革命",
+      "note": "初代国家主席"
+    },
+    {
+      "name": "周恩来",
+      "dynasty": "中華人民共和国",
+      "role": "政治家",
+      "achievement": "初代首相（国務院総理）、日中国交正常化",
+      "note": ""
+    },
+    {
+      "name": "鄧小平",
+      "dynasty": "中華人民共和国",
+      "role": "政治家",
+      "achievement": "改革開放政策を推進",
+      "note": ""
+    }
+  ]
+}

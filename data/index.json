@@ -1,0 +1,20 @@
+{
+ "decks": [
+  "countries-africa.json",
+  "countries-americas.json",
+  "countries-asia.json",
+  "countries-europe.json",
+  "countries-oceania.json",
+  "jp-eras.json",
+  "jp-history-ancient.json",
+  "jp-history-early-modern.json",
+  "jp-history-medieval.json",
+  "jp-history-modern.json",
+  "jp-shogun-pm.json",
+  "china-dynasties.json",
+  "china-history.json",
+  "china-people.json",
+  "ancient-people.json",
+  "ancient-world.json"
+ ]
+}
